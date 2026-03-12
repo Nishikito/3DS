@@ -1,0 +1,11 @@
+.borda_opcao{
+    display: flex;
+    background-color: aqua;
+    width: 500px;
+    height: 100px;
+    /*configurar a div paara ficar na borda direita da pagina e trocar sua cor quando seu desenvolvimento estiver mais avançado*/
+}
+
+.botao_c{
+    /*fazer algo aqui nesse botão*/
+}
