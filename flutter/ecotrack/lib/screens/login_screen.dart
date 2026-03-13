@@ -49,13 +49,19 @@ class _LoginScreenState extends State<LoginScreen> {
               SizedBox(
                 height: 150,
               ),
-              TextFormField(//daz com que apareça o icone de email no input
+              TextFormField(//faz com que apareça o icone de email no input
                 decoration: InputDecoration(
                   labelText: 'E-mail',
                   prefix: Icon(
                     Icons.email
                   ),
-                  border: OutlineInputBorder()//irá aparecer uma caixa em volta do input de email(NAO OBRIGATORIO)
+                  border: OutlineInputBorder(
+                    borderRadius: BorderRadius.circular(10),
+                    borderSide: const BorderSide(
+                      color: Color.fromARGB(255, 5, 110, 14),
+                      width: 6.5,
+                    ),
+                  ),//irá aparecer uma caixa em volta do input de email(NAO OBRIGATORIO)
                 ),
               ),
             ],
