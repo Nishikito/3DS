@@ -1,4 +1,4 @@
-import 'package:ecotrack/screens/login_screen.dart';
+import 'package:app_ecotrack_3_b/screens/login_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {

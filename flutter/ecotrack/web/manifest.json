@@ -1,6 +1,6 @@
 {
-    "name": "ecotrack",
-    "short_name": "ecotrack",
+    "name": "app_ecotrack_3_b",
+    "short_name": "app_ecotrack_3_b",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

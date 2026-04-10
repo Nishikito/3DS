@@ -6,9 +6,10 @@ class AuthService {
     if(email != usuarioCadastrado){
       return "Usuário não Cadastrado";
     }
-    if (senha != senhaCadastrada){
+    if(senha != senhaCadastrada){
       return "Usuário ou senha incorreta";
     }
     return null;
   }
+
 }
