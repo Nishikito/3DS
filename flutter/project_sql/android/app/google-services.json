@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022324330096",
+    "project_id": "cinetec-66c6c",
+    "storage_bucket": "cinetec-66c6c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022324330096:android:8d7891963ef42bdd93aeb5",
+        "android_client_info": {
+          "package_name": "com.example.project_sql"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuYI8hrAta5fQRrTFgRCXA6ykVni88qRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
